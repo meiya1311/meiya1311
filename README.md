@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **innovative projects**
 
-- 🤝 ** let's connect build something amazing**
+- 🤝  <b>let's connect build something amazing</b>
 
 - 📫 How to reach me **meiyashini1311@gmail.com**
 
