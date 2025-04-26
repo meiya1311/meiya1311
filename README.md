@@ -3,7 +3,7 @@
 <!--
 **meiya1311/meiya1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -78,3 +78,25 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meiyashini1311&show_icons=true&theme=radical" alt="Meiyashini's GitHub Stats" />
+</p>
+
+<h3 align="left">Top Languages:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiyashini1311&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meiyashini1311&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
